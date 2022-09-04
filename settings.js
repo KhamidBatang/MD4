@@ -54,16 +54,16 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['6282229445509'] //ur owner number
-global.ownername = "Nolen" //ur owner name
+global.vcardowner = ['6281947707409'] //ur owner number
+global.ownername = "KhamidOFC" //ur owner name
 global.ytname = "YT: youtube.com/c/hokenbeusz" //ur yt chanel name
 global.socialm = "GitHub: github.com/krizynofc" //ur github or insta name
 global.location = "Indoneisan" //ur location
 
 //bot bomdy 
-global.owner = ['6282229445509']
-global.ownertag = '6282229445509' //ur tag number
-global.botname = 'Àimò Shuǐ MD' //ur bot name
+global.owner = ['6281947707409']
+global.ownertag = '6281947707409' //ur tag number
+global.botname = 'REX-MD' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['62895327934887'] //ur premium numbers
+global.premium = ['6281947707409'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
